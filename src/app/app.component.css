@@ -4,5 +4,11 @@ main {
   justify-content: center;
   align-items: center;
   height: 100%;
-  background-color: aqua;
+  background-color: #2E19E5;
+  
+}
+h1{
+  font-style: italic;
+  font-weight: bolder;
+   color: #FA02AC;
 }

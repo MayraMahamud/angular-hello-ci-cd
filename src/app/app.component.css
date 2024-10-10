@@ -8,7 +8,17 @@ main {
   
 }
 h1{
-  font-style: italic;
-  font-weight: bolder;
+  font-family: "Anton", sans-serif;
+  font-weight: 400;
+  font-style: normal;
    color: #FA02AC;
+}
+
+p{
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: weight;
+  font-style: normal;
+  color: #FDACE3
+
 }
